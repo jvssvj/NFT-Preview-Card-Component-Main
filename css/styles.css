@@ -20,7 +20,7 @@ body {
     width: 300px;
     transform: translate(-50%, -50%);
     background-color: hsl(216, 50%, 16%);
-    padding: 15px;
+    padding: 23px;
     border-radius: 13px;
     box-shadow: 0 0 3em hsl(215, 100%, 5%);
 }
