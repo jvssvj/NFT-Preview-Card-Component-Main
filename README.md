@@ -24,7 +24,7 @@
 <div align='center'>
   <h2>Preview</h2>
   <img src="./design/desktop-preview.jpg" alt="NFT Preview Card Component Preview">
-  <p>Design preview for the NFT Preview Card Component coding challenge.</p>
+  <p>Design preview for the NFT Preview Card Component challenge.</p>
 </div>
 
 <br>
