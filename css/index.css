@@ -70,14 +70,6 @@ body {
     position: absolute;
 }
 
-.card__view__icon {
-    background-color: transparent;
-}
-
-.card__view:hover {
-    opacity: 1;
-}
-
 .card__text {
     margin: 1.5rem 0em;
 }
